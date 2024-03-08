@@ -1,0 +1,17 @@
+/* estilos al div para que podamos verlo sin problemas en el navegador: */
+#map {
+  height: 650px;
+  width: 1030px;
+  border: 1px solid black;
+}
+
+:root {
+  --7_morado: #f80ed5;
+  --6_rojo: #f32708;
+  --5_naranja: #f09a06;
+  --4_amarillo_osc: #cddb0aee;
+  --3_amarillo: #ebfb07;
+  --2_verde_osc: #56b915;
+  --1_verde: #73f71c;
+  --0_blanco: #f8f8f9;
+}

@@ -1,0 +1,6 @@
+/* estilos al div para que podamos verlo sin problemas en el navegador: */
+#map {
+    height: 400px;
+    width: 350px;
+    border: 1px solid black;
+  }
